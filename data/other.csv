@@ -2,16 +2,6 @@ name,gender,wikidata,type
 "Chaussée de Beaumont",,Q95100,way
 "Chaussée de Binche",,Q95121,way
 "Route de Binche",,Q95121,way
-"10th Street",,,way
-"1st Street",,,way
-"2nd Street",,,way
-"3rd Street",,,way
-"4th Street",,,way
-"5th Street",,,way
-"6th Street",,,way
-"7th Street",,,way
-"8th Street",,,way
-"9th Street",,,way
 "Aire du Bois du Gard Nord",,,way
 "Aire du Bois du Gard Sud",,,way
 "Allée des Aubépines",,,way
@@ -79,7 +69,7 @@ name,gender,wikidata,type
 "Avenue de la Francophonie",,,way
 "Avenue de la Grande Barre",,,way
 "Avenue de la Joyeuse Entrée",,,way
-"Avenue de la Joyeuse Entrée;Chaussée de Bruxelles",,,way
+"Avenue de la Joyeuse Entrée - Chaussée de Bruxelles",,,way
 "Avenue de la Libération",,,way
 "Avenue de la Picardie",,,way
 "Avenue de la Poudrière",,,way
@@ -143,6 +133,7 @@ name,gender,wikidata,type
 "Chasse Fontaine",,,way
 "Chasse Ma Brune",,,way
 "Chasse Montignies",,,way
+"Chasse du Bon Dieu",,,way
 "Chasse du Bon Dieu de Pitié",,,way
 "Chaussée de Bruxelles",,,way
 "Chaussée de Cuesmes",,,way
@@ -238,7 +229,6 @@ name,gender,wikidata,type
 "Clos des Forgerons",,,way
 "Clos des Puits",,,way
 "Clos des Tuileries",,,way
-"Clôture du SHAPE",,,way
 "Coron du Vingt",,,way
 "Cour Libert",,,way
 "Cour de l'Âne Barré",,,way
@@ -289,6 +279,7 @@ Grand-Place,,,way
 "Place Arthur Bastien",,,way
 "Place Charles Simonet",,,way
 "Place Édouard Arcq",,,way
+"Place Jean-Claude Carpentier",,,way
 "Place Léopold",,,way
 "Place Louise",,,way
 "Place Nervienne",,,way
@@ -461,11 +452,11 @@ Grand-Place,,,way
 "Rue Fernand Piron",,,way
 "Rue Fernand Quenon",,,way
 "Rue Ferrer",,,way
-"Rue Fétis",,,way
 "Rue Florimond Lemoine",,,way
 "Rue Fontaine Tordeur",,,way
 "Rue Franche",,,way
 "Rue François André",,,way
+"Rue François Fétis",,,way
 "Rue François Marcq",,,way
 "Rue Frébutte",,,way
 "Rue Frérot",,,way
@@ -499,7 +490,6 @@ Grand-Place,,,way
 "Rue Jacques Prévert",,,way
 "Rue Jacques de Guise",,,way
 "Rue Jean Jaurès",,,way
-"Rue Jean Lescarts",,,way
 "Rue Jean Locoge",,,way
 "Rue Jean Manne",,,way
 "Rue Jean Van Den Eeden",,,way
@@ -540,7 +530,6 @@ Grand-Place,,,way
 "Rue Marcel Dehon",,,way
 "Rue Marcel Gillis",,,way
 "Rue Marcel Stievenart",,,way
-"Rue Marguerite Bervoets",,,way
 "Rue Marie Joyle",,,way
 "Rue Marthe Sigart",,,way
 "Rue Martial Nicodème",,,way
@@ -587,6 +576,7 @@ Grand-Place,,,way
 "Rue René Descartes",,,way
 "Rue René Noël",,,way
 "Rue Richard Stiévenart",,,way
+"Rue Richebé - Avenue Demerbe",,,way
 "Rue Robert Pingot",,,way
 "Rue Rogier",,,way
 "Rue Roland de Lassus",,,way

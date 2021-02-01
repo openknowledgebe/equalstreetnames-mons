@@ -54,6 +54,7 @@ name,gender,wikidata,type
 "Avenue Victor Maistriau",,,way
 "Avenue Wilson",,,way
 "Avenue d'Hyon",,,way
+"Avenue d'Ottawa",,,way
 "Avenue de Bélian",,,way
 "Avenue de Conception",,,way
 "Avenue de Cuesmes",,,way
@@ -407,6 +408,7 @@ Grand-Place,,,way
 "Rue Camille Toussaint",,,way
 "Rue Caporal Trésignies",,,way
 "Rue Cardinal Mercier",,,way
+"Rue Chant des Oiseaux",,,way
 "Rue Chapelle du Curé",,,way
 "Rue Charles Perin",,,way
 "Rue Charles Piron",,,way
@@ -579,6 +581,7 @@ Grand-Place,,,way
 "Rue Richard Stiévenart",,,way
 "Rue Richebé - Avenue Demerbe",,,way
 "Rue Robert Pingot",,,way
+"Rue Rogers",,,way
 "Rue Rogier",,,way
 "Rue Roland de Lassus",,,way
 "Rue Sablonnière",,,way
@@ -678,6 +681,7 @@ Grand-Place,,,way
 "Rue de Mascaux",,,way
 "Rue de Masnuy",,,way
 "Rue de Masnuy-Saint-Jean",,,way
+"Rue de Mercure",,,way
 "Rue de Milfort",,,way
 "Rue de Mons",,,way
 "Rue de Monte-En-Peine",,,way
@@ -697,6 +701,7 @@ Grand-Place,,,way
 "Rue de Saint-Antoine",,,way
 "Rue de Saint-Denis",,,way
 "Rue de Saint-Symphorien",,,way
+"Rue de Saturne",,,way
 "Rue de Spiennes",,,way
 "Rue de Strasbourg",,,way
 "Rue de Thirimont",,,way
@@ -771,8 +776,8 @@ Grand-Place,,,way
 "Rue de la Goulette",,,way
 "Rue de la Grande Triperie",,,way
 "Rue de la Grosse Pomme",,,way
-"Rue de la Haie Fourrée",,,way
 "Rue de la Halle",,,way
+"Rue de la Haye Fourrée",,,way
 "Rue de la Houssière",,,way
 "Rue de la Lanterne",,,way
 "Rue de la Liberté",,,way
@@ -963,7 +968,6 @@ Grand-Place,,,way
 "Rue du Centre",,,way
 "Rue du Cerisier",,,way
 "Rue du Chanoine Puissant",,,way
-"Rue du Chant des Oiseaux",,,way
 "Rue du Chapitre",,,way
 "Rue du Château",,,way
 "Rue du Château Guillochain",,,way

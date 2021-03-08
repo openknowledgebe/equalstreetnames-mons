@@ -1,13 +1,74 @@
 name,gender,wikidata,type
 "Rue Pierre et Marie Curie",+,Q37463;Q7186,way
 "Avenue Edith Cavell",F,Q237564,way
+"Avenue Mélina Mercouri",F,Q228611,way
 "Avenue Reine Astrid",F,Q230238,way
 "Chaussée Brunehault",F,Q230639,way
 "Chaussée Brunehault - Rue des Fusillés",F,Q230639,way
+"Clos Marie Thérèse d'Autriche",F,Q131706,way
+"Place Louise",F,Q237318,way
+"Rampe Sainte-Waudru",F,Q436732,way
+"Rue Astrid",F,Q230238,way
 "Rue Marguerite Bervoets",F,Q3290678,way
+"Rue Sainte-Appoline",F,Q232427,way
+"Rue Sainte-Barbe",F,Q192816,way
+"Rue Sainte-Dorothée",F,Q242274,way
+"Rue Simone Veil",F,Q298180,way
+"Rue de Robertsart",F,Q105814849,way
+"Voie Berthe",F,Q22235960,way
 "Avenue Baudouin de Constantinople",M,Q298896,way
 "Avenue Frère Orban",M,Q705791,way
+"Avenue Général Leman",M,Q277876,way
+"Avenue Guibal et Devillez",M,Q2318070,way
+"Avenue Jean d'Avesnes",M,Q983084,way
+"Avenue Léo Collard",M,Q442199,way
+"Avenue Prince Albert",M,Q152245,way
+"Avenue Victor Maistriau",M,Q465953,way
 "Avenue des Guérites",M,Q705791,way
 "Avenue du Pont-Rouge",M,Q705791,way
+"Boulevard André Delvaux",M,Q518295,way
+"Boulevard Charles Quint",M,Q32500,way
+"Boulevard Fulgence Masson",M,Q771562,way
+"Boulevard Gendebien",M,Q693047,way
+"Boulevard Winston Churchill",M,Q8016,way
+"Boulevard du Président Kennedy",M,Q9696,way
 "Chaussée du Roi Baudouin",M,Q12976,way
+"Cours Dolez",M,Q2141152,relation
+"Place Édouard Arcq",M,Q105814053,way
+"Place Léopold",M,Q12971,way
+"Place Régnier au Long Col",M,Q206774,way
+"Place Roger de Looze",M,Q56817018,way
+"Place Warocqué",M,Q2096367,way
+"Rue A. Jauniaux",M,Q15324440,way
+"Rue Achille Legrand",M,Q17424265,way
+"Rue Albert 1er",M,Q55008046,way
+"Rue Buisseret",M,Q2205928,way
+"Rue Claude de Bettignies",M,Q2976754,way
+"Rue Clémenceau",M,Q171730,way
+"Rue François Fétis",M,Q523581,way
+"Rue Galilée",M,Q307,way
+"Rue Henri Deruelles",M,Q2410703,way
+"Rue Jacques Prévert",M,Q165274,way
+"Rue Jacques de Guise",M,Q1678134,way
 "Rue Jean Lescarts",M,Q2460284,way
+"Rue Léon Navez",M,Q3271229,way
+"Rue Léopold II",M,Q12967,way
+"Rue Lloyd Georges",M,Q134982,way
+"Rue Louis Piérart",M,Q3262929,way
+"Rue Maurice Flament",M,Q55619992,way
+"Rue Nicolas d'Hardenpont",M,Q105814481,way
+"Rue Paul Dufour",M,Q8324496,way
+"Rue Paul Verlaine",M,Q755,way
+"Rue Paul-Henri Spaak",M,Q155691,way
+"Rue René Descartes",M,Q9191,way
+"Rue Rogier",M,Q468109,way
+"Rue Roland de Lassus",M,Q154792,way
+"Rue Saint-Paul",M,Q9200,way
+"Rue Samson",M,Q214648,way
+"Rue de Saint-Symphorien",M,Q686367,way
+"Rue du Chanoine Puissant",M,Q3047971,way
+"Rue du Faubourg Saint-Barthélémy",M,Q43982,way
+"Rue du Général Leman",M,Q105814203,way
+"Ruelle Victor Maistriaux",M,Q465953,way
+"Square Franklin Delano Roosevelt",M,Q8007,way
+"Venelle Charles Garforth",M,Q5077412,way

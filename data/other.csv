@@ -6,6 +6,7 @@ name,gender,wikidata,type
 "Rue Petite Sorcière",,Q1616828,way
 "Rue des Bénédictines",,Q131132,way
 "Rue des Dames",,Q8389671,way
+"Vieux Chemin de Binche",,Q95121,way
 "Aire du Bois du Gard Nord",,,way
 "Aire du Bois du Gard Sud",,,way
 "Allée des Aubépines",,,way
@@ -30,25 +31,20 @@ name,gender,wikidata,type
 "Allée des Tuyas",,,way
 "Allée du Cimetière",,,way
 "Autoroute de Wallonie",,,way
-"Avenue Abel Dubois",,,way
 "Avenue Albert Ier",,,way
-"Avenue Albert-Elisabeth",,,way
 "Avenue Benoîte",,,way
 "Avenue Edith Cavell",,,way
 "Avenue Floréal",,,way
 "Avenue Guibal et Devillez",,,way
 "Avenue Gustave Maigret de Priches",,,way
-"Avenue Jean d'Avesnes",,,way
 "Avenue Joseph Wauters",,,way
 "Avenue Lemiez",,,way
 "Avenue Léo Collard",,,way
 "Avenue Louis Goblet",,,way
 "Avenue Maréchal Foch",,,way
-"Avenue Mélina Mercouri",,,way
 "Avenue Nicolas Copernic",,,way
 "Avenue Paul de Goussencourt",,,way
 "Avenue Prince Albert",,,way
-"Avenue Princesse Paola",,,way
 "Avenue Reine Astrid",,,way
 "Avenue Roi Albert",,,way
 "Avenue Saint-Fiacre",,,way
@@ -217,7 +213,6 @@ name,gender,wikidata,type
 "Cité du Repos",,,way
 "Cité du Vieux Champ",,,way
 "Clos Antoine Delobel",,,way
-"Clos Cécile Douard",,,way
 "Clos Charles Jarvis",,,way
 "Clos Evariste Mantannus",,,way
 "Clos Fernand Debouck",,,way
@@ -287,7 +282,6 @@ Grand-Place,,,way
 "Place Léopold",,,way
 "Place Louise",,,way
 "Place Nervienne",,,way
-"Place Paul Heupgen",,,way
 "Place Régnier au Long Col",,,way
 "Place Saint-Germain",,,way
 "Place Spira",,,way
@@ -495,7 +489,6 @@ Grand-Place,,,way
 "Rue Joseph Wauters",,,way
 "Rue Jules Antheunis",,,way
 "Rue Jules Beresse",,,way
-"Rue Jules Brabant",,,way
 "Rue Jules Cornet",,,way
 "Rue Jules Goffin",,,way
 "Rue Jules Hoyois",,,way
@@ -599,7 +592,6 @@ Grand-Place,,,way
 "Rue Victor Dejardin",,,way
 "Rue Victor Demerbe",,,way
 "Rue Victor Dieu",,,way
-"Rue Victor Hugo",,,way
 "Rue Vieille Chasse",,,way
 "Rue Vieille Église",,,way
 "Rue Vieille Haine",,,way
@@ -1100,7 +1092,6 @@ Grand-Place,,,way
 "Square du Château",,,way
 "Venelle Ernest Alexander",,,way
 "Vieille chaussée de Maubeuge",,,way
-"Vieux Chemin de Binche",,,way
 "Vieux Chemin de Givry",,,way
 "Vieux Chemin de Valenciennes",,,way
 "Voie Américaine",,,way

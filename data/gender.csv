@@ -1,10 +1,13 @@
 name,gender,wikidata,type
+"Avenue Albert-Elisabeth",+,Q55008046;Q235186,way
 "Rue Pierre et Marie Curie",+,Q37463;Q7186,way
 "Avenue Edith Cavell",F,Q237564,way
 "Avenue Mélina Mercouri",F,Q228611,way
+"Avenue Princesse Paola",F,Q31129,way
 "Avenue Reine Astrid",F,Q230238,way
 "Chaussée Brunehault",F,Q230639,way
 "Chaussée Brunehault - Rue des Fusillés",F,Q230639,way
+"Clos Cécile Douard",F,Q17625500,way
 "Clos Marie Thérèse d'Autriche",F,Q131706,way
 "Place Louise",F,Q237318,way
 "Rampe Sainte-Waudru",F,Q436732,way
@@ -16,12 +19,14 @@ name,gender,wikidata,type
 "Rue Simone Veil",F,Q298180,way
 "Rue de Robertsart",F,Q105814849,way
 "Voie Berthe",F,Q22235960,way
+"Avenue Abel Dubois",M,Q2230999,way
 "Avenue Baudouin de Constantinople",M,Q298896,way
 "Avenue Frère Orban",M,Q705791,way
 "Avenue Général Leman",M,Q277876,way
 "Avenue Guibal et Devillez",M,Q2318070,way
 "Avenue Jean d'Avesnes",M,Q983084,way
 "Avenue Léo Collard",M,Q442199,way
+"Avenue Maréchal Foch",M,Q192615,way
 "Avenue Prince Albert",M,Q152245,way
 "Avenue Victor Maistriau",M,Q465953,way
 "Avenue des Guérites",M,Q705791,way
@@ -36,6 +41,7 @@ name,gender,wikidata,type
 "Cours Dolez",M,Q2141152,relation
 "Place Édouard Arcq",M,Q105814053,way
 "Place Léopold",M,Q12971,way
+"Place Paul Heupgen",M,Q105814381,way
 "Place Régnier au Long Col",M,Q206774,way
 "Place Roger de Looze",M,Q56817018,way
 "Place Warocqué",M,Q2096367,way
@@ -51,6 +57,7 @@ name,gender,wikidata,type
 "Rue Jacques Prévert",M,Q165274,way
 "Rue Jacques de Guise",M,Q1678134,way
 "Rue Jean Lescarts",M,Q2460284,way
+"Rue Jules Brabant",M,Q11984840,way
 "Rue Léon Navez",M,Q3271229,way
 "Rue Léopold II",M,Q12967,way
 "Rue Lloyd Georges",M,Q134982,way
@@ -64,7 +71,9 @@ name,gender,wikidata,type
 "Rue Rogier",M,Q468109,way
 "Rue Roland de Lassus",M,Q154792,way
 "Rue Saint-Paul",M,Q9200,way
+"Rue Salvador Allende",M,Q440,way
 "Rue Samson",M,Q214648,way
+"Rue Victor Hugo",M,Q535,way
 "Rue de Saint-Symphorien",M,Q686367,way
 "Rue du Chanoine Puissant",M,Q3047971,way
 "Rue du Faubourg Saint-Barthélémy",M,Q43982,way

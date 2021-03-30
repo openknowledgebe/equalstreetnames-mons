@@ -2,10 +2,14 @@ name,gender,wikidata,type
 "Chaussée de Beaumont",,Q95100,way
 "Chaussée de Binche",,Q95121,way
 "Chemin Saint-Antoine",,Q232510,way
+"Chemin des Princes",,Q2747456,way
 "Route de Binche",,Q95121,way
+"Rue P. de Meester de Heyndonck",,Q23888728,way
 "Rue Petite Sorcière",,Q1616828,way
+"Rue Saint-Léger",,Q227764,way
 "Rue des Bénédictines",,Q131132,way
 "Rue des Dames",,Q8389671,way
+"Ruelle Saint-Léonard",,Q1158103,way
 "Vieux Chemin de Binche",,Q95121,way
 "Aire du Bois du Gard Nord",,,way
 "Aire du Bois du Gard Sud",,,way
@@ -43,13 +47,11 @@ name,gender,wikidata,type
 "Avenue Louis Goblet",,,way
 "Avenue Maréchal Foch",,,way
 "Avenue Nicolas Copernic",,,way
-"Avenue Paul de Goussencourt",,,way
 "Avenue Prince Albert",,,way
 "Avenue Reine Astrid",,,way
 "Avenue Roi Albert",,,way
 "Avenue Saint-Fiacre",,,way
 "Avenue Saint-Pierre",,,way
-"Avenue Thomas Edison",,,way
 "Avenue Victor Maistriau",,,way
 "Avenue Wilson",,,way
 "Avenue d'Hyon",,,way
@@ -109,7 +111,6 @@ name,gender,wikidata,type
 "Avenue du Prince Régent",,,way
 "Avenue du Quatrième Middlesex",,,way
 "Avenue du Régent",,,way
-"Avenue du Roi Chevalier",,,way
 "Avenue du Shape",,,way
 "Avenue du Tennis",,,way
 "Avenue du Tir",,,way
@@ -145,7 +146,6 @@ name,gender,wikidata,type
 "Chemin Belle-Vue",,,way
 "Chemin Bouteilier",,,way
 "Chemin Guillaume",,,way
-"Chemin Saint-Pierre",,,way
 "Chemin Sauvelon",,,way
 "Chemin Vert",,,way
 "Chemin Vert - Rue Jacquet",,,way
@@ -186,7 +186,6 @@ name,gender,wikidata,type
 "Chemin des Mourdreux",,,way
 "Chemin des Moutons",,,way
 "Chemin des Préelles",,,way
-"Chemin des Princes",,,way
 "Chemin des Tuileries",,,way
 "Chemin des Wartons",,,way
 "Chemin du Bois",,,way
@@ -276,7 +275,6 @@ Grand-Place,,,way
 "Piedsente de Hargmignies",,,way
 "Piedsente du Cabinet Cossée",,,way
 "Piedsente du Pont de la Brasserie",,,way
-"Place Arthur Bastien",,,way
 "Place Charles Simonet",,,way
 "Place Jean-Claude Carpentier",,,way
 "Place Léopold",,,way
@@ -366,8 +364,6 @@ Grand-Place,,,way
 "Rue Albert Clerfayt",,,way
 "Rue Albert Defrise",,,way
 "Rue André Masquelier",,,way
-"Rue Anto Carte",,,way
-"Rue Antoine Bourlard",,,way
 "Rue Antoine Clesse",,,way
 "Rue Aramis Tournay",,,way
 "Rue Arbre Saule",,,way
@@ -420,7 +416,6 @@ Grand-Place,,,way
 "Rue Demalzine",,,way
 "Rue Devaux",,,way
 "Rue Devreux",,,way
-"Rue Docteur Albert Schweitzer",,,way
 "Rue Docteur Wolkas",,,way
 "Rue Doyen",,,way
 "Rue Dubreucq",,,way
@@ -454,7 +449,6 @@ Grand-Place,,,way
 "Rue Frébutte",,,way
 "Rue Frérot",,,way
 "Rue Froissart",,,way
-"Rue Gabrielle Petit",,,way
 "Rue Général Leman",,,way
 "Rue Genestrois",,,way
 "Rue Georges Delporte",,,way
@@ -483,14 +477,12 @@ Grand-Place,,,way
 "Rue Jean Locoge",,,way
 "Rue Jean Manne",,,way
 "Rue Jean Van Den Eeden",,,way
-"Rue Jean Van den Eeden",,,way
 "Rue Jean-Baptiste Demol",,,way
 "Rue Joseph Delsaut",,,way
 "Rue Joseph Hubert",,,way
 "Rue Joseph Wauters",,,way
 "Rue Jules Antheunis",,,way
 "Rue Jules Beresse",,,way
-"Rue Jules Cornet",,,way
 "Rue Jules Goffin",,,way
 "Rue Jules Hoyois",,,way
 "Rue Kincamps",,,way
@@ -500,9 +492,7 @@ Grand-Place,,,way
 "Rue Léon Dewolf",,,way
 "Rue Léon Flament",,,way
 "Rue Léon Save",,,way
-"Rue Léopold III",,,way
 "Rue Lloyd Georges",,,way
-"Rue Louis Caty",,,way
 "Rue Louis Lévêque",,,way
 "Rue Louis Piérard",,,way
 "Rue Louise Cambier",,,way
@@ -514,7 +504,6 @@ Grand-Place,,,way
 "Rue Marais à Chardons",,,way
 "Rue Marcel Beaufays",,,way
 "Rue Marcel Dehon",,,way
-"Rue Marcel Gillis",,,way
 "Rue Marcel Stievenart",,,way
 "Rue Marie Joyle",,,way
 "Rue Marthe Sigart",,,way
@@ -531,7 +520,6 @@ Grand-Place,,,way
 "Rue Mouzin",,,way
 "Rue Nestor Dehon",,,way
 "Rue Neuve",,,way
-"Rue Notre-Dame",,,way
 "Rue Notre-Dame Débonnaire",,,way
 "Rue Notre-Dame de Tongres",,,way
 "Rue Notre-Dame du Petit Nimy",,,way
@@ -539,7 +527,6 @@ Grand-Place,,,way
 "Rue Nouvelle Chasse",,,way
 "Rue Oscar Sturbois",,,way
 "Rue Ottelet",,,way
-"Rue P. de Meester de Heyndonck",,,way
 "Rue Pattey",,,way
 "Rue Paul Dufour",,,way
 "Rue Périer",,,way
@@ -553,7 +540,6 @@ Grand-Place,,,way
 "Rue Rabelais",,,way
 "Rue Rachot",,,way
 "Rue Raoul Follereau",,,way
-"Rue Raoul Godfroid",,,way
 "Rue Raulier",,,way
 "Rue René Noël",,,way
 "Rue Richard Stiévenart",,,way
@@ -565,7 +551,6 @@ Grand-Place,,,way
 "Rue Saint-Hubert",,,way
 "Rue Saint-Jean",,,way
 "Rue Saint-Lazare",,,way
-"Rue Saint-Léger",,,way
 "Rue Saint-Luc",,,way
 "Rue Saint-Macaire",,,way
 "Rue Sainte-Anne",,,way
@@ -598,7 +583,6 @@ Grand-Place,,,way
 "Rue Vieille Haine",,,way
 "Rue Vilain XIIII",,,way
 "Rue Vilaine",,,way
-"Rue Vincent Van Gogh",,,way
 "Rue Vital Culot",,,way
 "Rue Voltaire",,,way
 "Rue à Charettes",,,way
@@ -667,7 +651,6 @@ Grand-Place,,,way
 "Rue de Quaregon",,,way
 "Rue de Robertsart",,,way
 "Rue de Roumanie",,,way
-"Rue de Saint-Amand",,,way
 "Rue de Saint-Antoine",,,way
 "Rue de Saint-Denis",,,way
 "Rue de Saturne",,,way
@@ -944,7 +927,6 @@ Grand-Place,,,way
 "Rue du Chemin de Fer",,,way
 "Rue du Cimetière",,,way
 "Rue du Coin Vert",,,way
-"Rue du Commandant Lemaire",,,way
 "Rue du Comte",,,way
 "Rue du Corbeau",,,way
 "Rue du Couvent",,,way
@@ -1049,12 +1031,11 @@ Grand-Place,,,way
 "Ruelle Mortiau",,,way
 "Ruelle Pecquet",,,way
 "Ruelle Plaquette",,,way
-"Ruelle Saint-Léonard",,,way
 "Ruelle Saint-Roch",,,way
 "Ruelle Spira",,,way
 "Ruelle à Vaches",,,way
+"Ruelle aux Loups",,,way
 "Ruelle aux Quinettes",,,way
-"Ruelle aux loups",,,way
 "Ruelle des Hiots",,,way
 "Ruelle des Pêcheurs",,,way
 "Ruelle du Progrès",,,way
@@ -1089,10 +1070,8 @@ Grand-Place,,,way
 "Sentier du Vicaire",,,way
 "Square Europe",,,way
 "Square Franklin Delano Roosevelt",,,way
-"Square Saint-Germain",,,way
 "Square de la Résistance",,,way
 "Square du Château",,,way
-"Venelle Ernest Alexander",,,way
 "Vieille chaussée de Maubeuge",,,way
 "Vieux Chemin de Givry",,,way
 "Vieux Chemin de Valenciennes",,,way

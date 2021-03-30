@@ -12,7 +12,11 @@ name,gender,wikidata,type
 "Place Louise",F,Q237318,way
 "Rampe Sainte-Waudru",F,Q436732,way
 "Rue Astrid",F,Q230238,way
+"Rue Gabrielle Petit",F,Q468263,way
+"Rue Jacqmotte",F,Q3427151,way
 "Rue Marguerite Bervoets",F,Q3290678,way
+"Rue Notre-Dame",F,Q345,way
+"Rue Sainte-Anne",F,Q164294,way
 "Rue Sainte-Appoline",F,Q232427,way
 "Rue Sainte-Barbe",F,Q192816,way
 "Rue Sainte-Dorothée",F,Q242274,way
@@ -26,19 +30,34 @@ name,gender,wikidata,type
 "Avenue Guibal et Devillez",M,Q2318070,way
 "Avenue Jean d'Avesnes",M,Q983084,way
 "Avenue Léo Collard",M,Q442199,way
+"Avenue Louis Goblet",M,Q3262050,way
 "Avenue Maréchal Foch",M,Q192615,way
+"Avenue Nicolas Copernic",M,Q619,way
+"Avenue Paul de Goussencourt",M,Q106261355,way
 "Avenue Prince Albert",M,Q152245,way
+"Avenue Roi Albert",M,Q55008046,way
+"Avenue Thomas Edison",M,Q8743,way
 "Avenue Victor Maistriau",M,Q465953,way
 "Avenue des Guérites",M,Q705791,way
+"Avenue du Gouverneur Émile Cornez",M,Q275014,way
 "Avenue du Pont-Rouge",M,Q705791,way
+"Avenue du Prince Régent",M,Q445553,way
+"Avenue du Roi Chevalier",M,Q55008046,way
 "Boulevard André Delvaux",M,Q518295,way
 "Boulevard Charles Quint",M,Q32500,way
+"Boulevard Dolez",M,Q2516001,way
 "Boulevard Fulgence Masson",M,Q771562,way
 "Boulevard Gendebien",M,Q693047,way
+"Boulevard Sainctelette",M,Q1814380,way
 "Boulevard Winston Churchill",M,Q8016,way
 "Boulevard du Président Kennedy",M,Q9696,way
 "Chaussée du Roi Baudouin",M,Q12976,way
+"Chemin Saint-Pierre",M,Q33923,way
+"Clos Maurice Dease",M,Q6793009,way
+"Clos Sidney Godley",M,Q7509073,way
+"Clos Theodore Wright",M,Q7782113,way
 "Cours Dolez",M,Q2141152,relation
+"Place Arthur Bastien",M,Q2864985,way
 "Place Édouard Arcq",M,Q105814053,way
 "Place Léopold",M,Q12971,way
 "Place Paul Heupgen",M,Q105814381,way
@@ -48,36 +67,62 @@ name,gender,wikidata,type
 "Rue A. Jauniaux",M,Q15324440,way
 "Rue Achille Legrand",M,Q17424265,way
 "Rue Albert 1er",M,Q55008046,way
+"Rue Anto Carte",M,Q2853424,way
+"Rue Antoine Bourlard",M,Q23709297,way
+"Rue Arthur Collier",M,Q1960921,way
+"Rue Baudelet",M,Q24578863,way
 "Rue Buisseret",M,Q2205928,way
 "Rue Claude de Bettignies",M,Q2976754,way
 "Rue Clémenceau",M,Q171730,way
+"Rue Comte Cornet",M,Q3068545,way
+"Rue Docteur Albert Schweitzer",M,Q49325,way
+"Rue Émile Vandervelde",M,Q286556,way
+"Rue Fernand Huart",M,Q13102561,way
 "Rue François Fétis",M,Q523581,way
 "Rue Galilée",M,Q307,way
+"Rue Guy de Brès",M,Q1368959,way
 "Rue Henri Deruelles",M,Q2410703,way
 "Rue Jacques Prévert",M,Q165274,way
 "Rue Jacques de Guise",M,Q1678134,way
+"Rue Jean Jaurès",M,Q12688,way
 "Rue Jean Lescarts",M,Q2460284,way
+"Rue Jean Van den Eeden",M,Q16191596,way
+"Rue Joseph Hubert",M,Q3185096,way
 "Rue Jules Brabant",M,Q11984840,way
+"Rue Jules Cornet",M,Q3188493,way
+"Rue Léon Flament",M,Q3088162,way
 "Rue Léon Navez",M,Q3271229,way
 "Rue Léopold II",M,Q12967,way
+"Rue Léopold III",M,Q12973,way
 "Rue Lloyd Georges",M,Q134982,way
+"Rue Louis Caty",M,Q3261447,way
+"Rue Louis Piérard",M,Q3262929,way
 "Rue Louis Piérart",M,Q3262929,way
+"Rue Marcel Gillis",M,Q3288982,way
 "Rue Maurice Flament",M,Q55619992,way
 "Rue Nicolas d'Hardenpont",M,Q105814481,way
 "Rue Paul Dufour",M,Q8324496,way
 "Rue Paul Verlaine",M,Q755,way
 "Rue Paul-Henri Spaak",M,Q155691,way
+"Rue Raoul Godfroid",M,Q106227956,way
 "Rue René Descartes",M,Q9191,way
 "Rue Rogier",M,Q468109,way
 "Rue Roland de Lassus",M,Q154792,way
+"Rue Saint-Jean",M,Q44015,way
 "Rue Saint-Paul",M,Q9200,way
 "Rue Salvador Allende",M,Q440,way
 "Rue Samson",M,Q214648,way
 "Rue Victor Hugo",M,Q535,way
+"Rue Vincent Van Gogh",M,Q5582,way
+"Rue de Saint-Amand",M,Q3461739,way
 "Rue de Saint-Symphorien",M,Q686367,way
+"Rue de la Bruyère",M,Q314975,way
 "Rue du Chanoine Puissant",M,Q3047971,way
+"Rue du Commandant Lemaire",M,Q2090301,way
 "Rue du Faubourg Saint-Barthélémy",M,Q43982,way
 "Rue du Général Leman",M,Q105814203,way
 "Ruelle Victor Maistriaux",M,Q465953,way
 "Square Franklin Delano Roosevelt",M,Q8007,way
+"Square Saint-Germain",M,Q442516,way
 "Venelle Charles Garforth",M,Q5077412,way
+"Venelle Ernest Alexander",M,Q5394043,way

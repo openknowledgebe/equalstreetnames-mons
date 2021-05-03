@@ -24,6 +24,7 @@ name,source,gender,wikidata,type
 "Rue de Robertsart",wikidata,F,Q105814849,way
 "Voie Berthe",wikidata,F,Q22235960,way
 "Avenue Abel Dubois",wikidata,M,Q2230999,way
+"Avenue Albert Ier",wikidata,M,Q55008046,way
 "Avenue Baudouin de Constantinople",wikidata,M,Q298896,way
 "Avenue Frère Orban",wikidata,M,Q705791,way
 "Avenue Général Leman",wikidata,M,Q277876,way
@@ -51,7 +52,7 @@ name,source,gender,wikidata,type
 "Boulevard Sainctelette",wikidata,M,Q1814380,way
 "Boulevard Winston Churchill",wikidata,M,Q8016,way
 "Boulevard du Président Kennedy",wikidata,M,Q9696,way
-"Chaussée du Roi Baudouin",wikidata,M,Q12976,way
+"Chaussée du Roi Baudouin",wikidata,M,Q12976;Q95121,way
 "Chemin Saint-Pierre",wikidata,M,Q33923,way
 "Clos Maurice Dease",wikidata,M,Q6793009,way
 "Clos Sidney Godley",wikidata,M,Q7509073,way
@@ -89,6 +90,7 @@ name,source,gender,wikidata,type
 "Rue Jean Lescarts",wikidata,M,Q2460284,way
 "Rue Jean Van den Eeden",wikidata,M,Q16191596,way
 "Rue Joseph Hubert",wikidata,M,Q3185096,way
+"Rue Jules Beresse",wikidata,M,Q106613090,way
 "Rue Jules Brabant",wikidata,M,Q11984840,way
 "Rue Jules Cornet",wikidata,M,Q3188493,way
 "Rue Léon Flament",wikidata,M,Q3088162,way

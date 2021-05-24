@@ -216,7 +216,7 @@ name,source,gender,wikidata,type
 Croix-Place,,,,way
 "Digue de Cuesmes",,,,way
 "Digue des Peupliers",,,,way
-"Domaine de la Brisée",,,,relation
+"Domaine de la Brisée",,,,relation+way
 "Domaine des Bruyères",,,,way
 "Drève du Prophète",,,,way
 Fausse-Voie,,,,way
@@ -267,7 +267,7 @@ Grand-Place,,,,way
 "Place de Bootle",,,,way
 "Place de Briare",,,,way
 "Place de Ciply",,,,way
-"Place de Cuesmes",,,,relation
+"Place de Cuesmes",,,,relation+way
 "Place de Flandre",,,,way
 "Place de Ghlin",,,,way
 "Place de Jéricho",,,,way
@@ -1019,3 +1019,4 @@ Grand-Place,,,,way
 "Voie Américaine",,,,way
 "Voie Jean Botte",,,,way
 "Voie de Wasmes",,,,way
+"rue de la Côte d'Ivoire",,,,way

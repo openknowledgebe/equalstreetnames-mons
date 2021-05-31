@@ -7,7 +7,6 @@ name,source,gender,wikidata,type
 "Place de Saint-Symphorien",wikidata,,Q234910,way
 "Route de Binche",wikidata,,Q95121,way
 "Rue Cardinal Mercier",wikidata,,Q3389738,way
-"Rue Marthe Sigart",wikidata,,,way
 "Rue P. de Meester de Heyndonck",wikidata,,Q23888728,way
 "Rue Petite Sorcière",wikidata,,Q1616828,way
 "Rue Saint-Léger",wikidata,,Q227764,way
@@ -172,6 +171,7 @@ name,source,gender,wikidata,type
 "Chemin des Wartons",,,,way
 "Chemin du Bois",,,,way
 "Chemin du Bois de Mons",,,,way
+"Chemin du Bosquetiau",,,,way
 "Chemin du Canon",,,,way
 "Chemin du Champ de Mars",,,,way
 "Chemin du Chêne aux Haies",,,,way
@@ -461,6 +461,7 @@ Grand-Place,,,,way
 "Rue Marcel Dehon",,,,way
 "Rue Marcel Stievenart",,,,way
 "Rue Marie Joyle",,,,way
+"Rue Marthe Sigart",,,,way
 "Rue Martial Nicodème",,,,way
 "Rue Mathys",,,,way
 "Rue Maurice Ghislain",,,,way
